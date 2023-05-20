@@ -18,10 +18,9 @@ Also, check [playfair-display-font
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fpm.dev/) or jump into our [FifthTry Discord 
-server](https://discord.gg/bucrdvptYd).
+Feel free to check [our documentation](https://fastn.com/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd). 
 
 ## License
 
-Since Arya Font is under [Open Font Licence](https://fonts.google.com/specimen/Playfair+Display/about), this fastn wrapper is also
+Since Poppins Font is under [Open Font Licence](https://fonts.google.com/specimen/Poppins/about), this fastn wrapper is also
 under [Open Font License](LICENSE).
